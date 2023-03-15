@@ -1,9 +1,3 @@
-"""
- Parola doğrulama sisteminin daha gerçekçi olacağını düşündüğümüz için parolayı kullanıcıdan almak yerine
-önceden '123abc' olarak belirledik. Kullanıcının 3 kez parola deneme hakkı bulunuyor. Parola üç kez yanlış girilirse
-sipariş iptal ediliyor. Parolanın kullanıcı tarafından belirlendiği versiyon da mevcut, onu da yollayabiliriz lakin
-gerçek hayattakşi gibi parolayı yanlış girme olasılığını da programa dahil etmek istedik.
-"""
 
 
 
